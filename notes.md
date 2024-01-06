@@ -7,3 +7,8 @@ HTML : hypertext markup language
 the body element is needed to build a website
 only content inside the body element can be displayed on the screeen. 
 <body></body>
+
+# HTML STRUCTURE
+HTML is organized as a collection of family tree
+
+When an element is contained inside another element, it is considered the child of that element. The child element is said to be nested inside of the parent element.
