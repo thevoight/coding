@@ -19,3 +19,8 @@ there are six different headings in html
 can be used for a variety of purposes, like titling sections, articles, or other forms of content
 
 from h1 to h6 
+
+# DIVs
+<div> element is the most popular element in html 
+
+<div> is short for “division” or a container that divides the page into sections
