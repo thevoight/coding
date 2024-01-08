@@ -24,3 +24,24 @@ from h1 to h6
 <div> element is the most popular element in html 
 
 <div> is short for “division” or a container that divides the page into sections
+
+  #Attributes
+
+expand an element’s tag 
+provides extra information or helps changing the style of the element 
+
+two parts
+
+
+- the name of the attribute 
+- the value of the atrritubute 
+
+id is a type of attribute 
+
+example :
+
+<div id=“intro”> 
+  <h1>Introduction</h1>
+</div>
+
+
